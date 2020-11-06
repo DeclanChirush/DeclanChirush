@@ -3,6 +3,7 @@
 - 🌱 I’m currently following a degree
 - ⚡ Fun fact: COD Gamer, Nature Lover
 
+
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=DeclanChirush&show_icons=true&include_all_commits=true&theme=chartreuse-dark" />
 
 <img width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DeclanChirush&layout=compact&theme=chartreuse-dark" />
