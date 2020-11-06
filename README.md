@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there [Hirush!](https://github.com/DeclanChirush) 👋
 
 <!--
 **DeclanChirush/DeclanChirush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=DeclanChirush&show_icons=true&include_all_commits=true&theme=radical" />
+
+<img width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DeclanChirush&layout=compact&theme=radical" />
