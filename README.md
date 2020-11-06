@@ -1,9 +1,4 @@
 ### Hi there [Hirush!](https://github.com/DeclanChirush) 👋
-
-<!--
-**DeclanChirush/DeclanChirush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
->
-
 - 🔭 I’m currently studying on SLIIT
 - 🌱 I’m currently following a degree
 - ⚡ Fun fact: COD Gamer, Nature Lover
@@ -15,11 +10,16 @@
 ![Visitor Count](https://profile-counter.glitch.me/{DeclanChirush}/count.svg)
 
 <!--
+**DeclanChirush/DeclanChirush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...   >
+- 😄 Pronouns: ...   
+
+>
 
 
 
