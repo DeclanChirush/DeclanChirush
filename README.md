@@ -1,6 +1,6 @@
 ### Hi there [Hirush!](https://github.com/DeclanChirush) 👋
 - 🔭 I’m currently studying on SLIIT
-- 🌱 I’m currently following a degree
+- 🌱 I’m currently following a Software Engineering degree
 - ⚡ Fun fact: COD Gamer, Nature Lover
 
 
