@@ -10,6 +10,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{DeclanChirush}/count.svg)
 
+[![@declanchirush's Holopin board](https://holopin.me/declanchirush)](https://holopin.io/@declanchirush)
+
+
 <!--
 **DeclanChirush/DeclanChirush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 >
@@ -22,7 +25,8 @@
 
 >
 
-[![@declanchirush's Holopin board](https://holopin.me/declanchirush)](https://holopin.io/@declanchirush)
+
+
 
 
 
