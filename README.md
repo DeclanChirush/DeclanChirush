@@ -1,6 +1,5 @@
 ### Hi there [Hirush!](https://github.com/DeclanChirush) 👋
-- 🔭 I’m currently studying on SLIIT
-- 🌱 I’m currently following a Software Engineering degree
+- BSc(Hons) in Information Technology with a Second-class Upper Division in Software Engineering from the [Sri Lanka Institute of Information Technology - SLIIT](https://www.sliit.lk).
 - ⚡ Fun fact: COD Gamer, Nature Lover
 
 
