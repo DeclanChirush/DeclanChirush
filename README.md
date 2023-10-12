@@ -12,6 +12,10 @@
 [![@declanchirush's Holopin board](https://holopin.me/declanchirush)](https://holopin.io/@declanchirush)
 
 
+
+[![@declanchirush's Holopin board badges](https://holopin.me/declanchirush3)](https://holopin.io/@declanchirush3)
+
+
 <!--
 **DeclanChirush/DeclanChirush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 >
