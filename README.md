@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-Co-Founder & Senior Software Engineer at **[Vennisys](https://vennisys.io)** with **5+ years** of experience building scalable, production-grade applications across healthcare, IoT, logistics, and enterprise domains. I specialize in designing end-to-end solutions — from complex frontend interfaces to robust backend architectures and cloud infrastructure.
+Co-Founder & Senior Software Engineer at **[Vennisys](https://vennisys.io)** with **4+ years** of experience building scalable, production-grade applications across healthcare, IoT, logistics, and enterprise domains. I specialize in designing end-to-end solutions — from complex frontend interfaces to robust backend architectures and cloud infrastructure.
 
 🎓 **BSc (Hons) in IT** — Software Engineering, Second-class Upper Division @ [SLIIT](https://www.sliit.lk)
 
