@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Hirush%20Gimhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Co-Founder%20%7C%20Senior%20Software%20Engineer%20%40%20Vennisys&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Engineer+%7C5%2BYears+Experience;Building+Scalable+Cloud-Native+Solutions;TypeScript+%7C+React+%7C+Node.js+%7C+AWS;Turning+Ideas+Into+Production-Ready+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Engineer+%7C+5+Years+Experience;Building+Scalable+Cloud-Native+Solutions;TypeScript+%7C+React+%7C+Node.js+%7C+AWS;Turning+Ideas+Into+Production-Ready+Software)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirush-gimhan)
