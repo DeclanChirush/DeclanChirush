@@ -8,7 +8,9 @@
 
 <!-- Social Badges -->
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/hirush-gimhan/)
+  <a href="https://www.linkedin.com/in/hirush-gimhan/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
   
   <a href="https://www.hirushgimhan.com" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
